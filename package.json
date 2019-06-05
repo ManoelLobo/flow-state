@@ -1,0 +1,12 @@
+{
+  "name": "flow-state",
+  "version": "0.0.1",
+  "description": "A flow time state machine",
+  "main": "index.js",
+  "repository": "git@github.com:ManoelLobo/flow-state.git",
+  "author": "Manoel <manoel.lobo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xstate": "^4.6.0"
+  }
+}
